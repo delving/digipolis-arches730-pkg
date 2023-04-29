@@ -143,7 +143,7 @@
                     "instructions": {
                         "en": ""
                     },
-                    "is_editable": false,
+                    "is_editable": true,
                     "name": {
                         "en": "URL test"
                     },
@@ -439,7 +439,7 @@
             "functions_x_graphs": [],
             "graphid": "30a341b3-0d57-4de0-9773-8831b92115a0",
             "iconclass": "fa fa-image",
-            "is_editable": false,
+            "is_editable": true,
             "isresource": true,
             "jsonldcontext": null,
             "name": {
@@ -795,11 +795,5 @@
             "template_id": "50000000-0000-0000-0000-000000000001",
             "version": ""
         }
-    ],
-    "metadata": {
-        "db": "PostgreSQL 15.1 on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
-        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
-        "os": "Darwin",
-        "os version": "22.4.0"
-    }
+    ]
 }

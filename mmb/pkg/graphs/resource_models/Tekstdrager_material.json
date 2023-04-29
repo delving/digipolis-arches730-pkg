@@ -2402,8 +2402,8 @@
                         },
                         "descriptor_types": {
                             "description": {
-                                "nodegroup_id": "",
-                                "string_template": ""
+                                "nodegroup_id": "647435f2-ac0f-11ec-b19f-9cf387da2c40",
+                                "string_template": "<Object Number>"
                             },
                             "map_popup": {
                                 "nodegroup_id": "",
@@ -2426,7 +2426,7 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "6473fe5c-ac0f-11ec-b19f-9cf387da2c40",
-                    "id": "396b5c4b-c59b-4093-a5bf-4de0f2f50e40"
+                    "id": "bb424dcc-5829-4d0f-bd82-4e8e7884149e"
                 }
             ],
             "graphid": "6473fe5c-ac0f-11ec-b19f-9cf387da2c40",
@@ -5403,11 +5403,5 @@
             "template_id": "50000000-0000-0000-0000-000000000003",
             "version": ""
         }
-    ],
-    "metadata": {
-        "db": "PostgreSQL 15.1 on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
-        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
-        "os": "Darwin",
-        "os version": "22.4.0"
-    }
+    ]
 }

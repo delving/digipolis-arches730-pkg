@@ -1115,26 +1115,6 @@
                     "widget_id": "10000000-0000-0000-0000-000000000001"
                 },
                 {
-                    "card_id": "26884e2c-ac0f-11ec-b19f-9cf387da2c40",
-                    "config": {
-                        "defaultValue": "",
-                        "dlod_datatype": "agent",
-                        "label": "ID",
-                        "maxLength": "archive",
-                        "placeholder": "https://hub3.digipolis.delving.io",
-                        "uneditable": false,
-                        "width": "100%"
-                    },
-                    "id": "2688bc9a-ac0f-11ec-b19f-9cf387da2c40",
-                    "label": {
-                        "en": "ID"
-                    },
-                    "node_id": "2688836a-ac0f-11ec-b19f-9cf387da2c40",
-                    "sortorder": 0,
-                    "visible": true,
-                    "widget_id": "37d48742-ccf0-470b-8b41-d799ad912c51"
-                },
-                {
                     "card_id": "2687f6a2-ac0f-11ec-b19f-9cf387da2c40",
                     "config": {
                         "defaultValue": "",
@@ -1247,26 +1227,6 @@
                     "sortorder": 1,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000001"
-                },
-                {
-                    "card_id": "26887104-ac0f-11ec-b19f-9cf387da2c40",
-                    "config": {
-                        "defaultValue": "",
-                        "dlod_datatype": "agent",
-                        "label": "ID",
-                        "maxLength": "place",
-                        "placeholder": "https://hub3.digipolis.delving.io",
-                        "uneditable": false,
-                        "width": "100%"
-                    },
-                    "id": "2688be16-ac0f-11ec-b19f-9cf387da2c40",
-                    "label": {
-                        "en": "ID"
-                    },
-                    "node_id": "2688b6d2-ac0f-11ec-b19f-9cf387da2c40",
-                    "sortorder": 0,
-                    "visible": true,
-                    "widget_id": "37d48742-ccf0-470b-8b41-d799ad912c51"
                 },
                 {
                     "card_id": "26887104-ac0f-11ec-b19f-9cf387da2c40",
@@ -1559,26 +1519,6 @@
                     "sortorder": 2,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000005"
-                },
-                {
-                    "card_id": "2687b084-ac0f-11ec-b19f-9cf387da2c40",
-                    "config": {
-                        "defaultValue": "",
-                        "dlod_datatype": "agent",
-                        "label": "ID",
-                        "maxLength": "all",
-                        "placeholder": "https://hub3.digipolis.delving.io",
-                        "uneditable": false,
-                        "width": "100%"
-                    },
-                    "id": "2688c046-ac0f-11ec-b19f-9cf387da2c40",
-                    "label": {
-                        "en": "ID"
-                    },
-                    "node_id": "268885ea-ac0f-11ec-b19f-9cf387da2c40",
-                    "sortorder": 0,
-                    "visible": true,
-                    "widget_id": "37d48742-ccf0-470b-8b41-d799ad912c51"
                 },
                 {
                     "card_id": "2687b084-ac0f-11ec-b19f-9cf387da2c40",
@@ -3131,7 +3071,7 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "26879842-ac0f-11ec-b19f-9cf387da2c40",
-                    "id": "124ace2c-0028-496c-8fc9-b0816cd4f912"
+                    "id": "b07f4879-5d2d-450d-9faa-7a32de9566d0"
                 }
             ],
             "graphid": "26879842-ac0f-11ec-b19f-9cf387da2c40",
@@ -6586,11 +6526,5 @@
             "template_id": "50000000-0000-0000-0000-000000000001",
             "version": ""
         }
-    ],
-    "metadata": {
-        "db": "PostgreSQL 15.1 on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
-        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
-        "os": "Darwin",
-        "os version": "22.4.0"
-    }
+    ]
 }

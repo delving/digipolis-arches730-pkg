@@ -1171,26 +1171,6 @@
                     "widget_id": "10000000-0000-0000-0000-000000000005"
                 },
                 {
-                    "card_id": "2f6235d8-a5fe-11ec-b19f-9cf387da2c40",
-                    "config": {
-                        "defaultValue": "",
-                        "dlod_datatype": "agent",
-                        "label": "ID",
-                        "maxLength": "all",
-                        "placeholder": "https://hub3.digipolis.delving.io",
-                        "uneditable": false,
-                        "width": "100%"
-                    },
-                    "id": "2f63b4da-a5fe-11ec-b19f-9cf387da2c40",
-                    "label": {
-                        "en": "ID"
-                    },
-                    "node_id": "2f636502-a5fe-11ec-b19f-9cf387da2c40",
-                    "sortorder": 0,
-                    "visible": true,
-                    "widget_id": "37d48742-ccf0-470b-8b41-d799ad912c51"
-                },
-                {
                     "card_id": "2f62455a-a5fe-11ec-b19f-9cf387da2c40",
                     "config": {
                         "defaultValue": "",
@@ -2623,8 +2603,8 @@
                         },
                         "descriptor_types": {
                             "description": {
-                                "nodegroup_id": "2f6260ee-a5fe-11ec-b19f-9cf387da2c40",
-                                "string_template": "<Description>"
+                                "nodegroup_id": "2f6286f0-a5fe-11ec-b19f-9cf387da2c40",
+                                "string_template": "<Object Number>"
                             },
                             "map_popup": {
                                 "nodegroup_id": "",
@@ -2647,7 +2627,7 @@
                     },
                     "function_id": "60000000-0000-0000-0000-000000000001",
                     "graph_id": "2f62301a-a5fe-11ec-b19f-9cf387da2c40",
-                    "id": "27f98307-a384-4968-8c23-e0bb268d8594"
+                    "id": "2a5164bb-8c9e-4abd-95b9-ef93b3ad0b12"
                 }
             ],
             "graphid": "2f62301a-a5fe-11ec-b19f-9cf387da2c40",
@@ -6146,11 +6126,5 @@
             "template_id": "50000000-0000-0000-0000-000000000001",
             "version": ""
         }
-    ],
-    "metadata": {
-        "db": "PostgreSQL 15.1 on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
-        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
-        "os": "Darwin",
-        "os version": "22.4.0"
-    }
+    ]
 }

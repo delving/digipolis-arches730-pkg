@@ -191,36 +191,6 @@
                     "sortorder": 0,
                     "visible": true,
                     "widget_id": "10000000-0000-0000-0000-000000000001"
-                },
-                {
-                    "card_id": "bc42eacd-b082-4e17-94e1-41ad290aed3e",
-                    "config": {
-                        "defaultValue": {
-                            "en": {
-                                "direction": "ltr",
-                                "value": ""
-                            }
-                        },
-                        "dlod_datatype": "agent",
-                        "i18n_properties": [
-                            "placeholder"
-                        ],
-                        "label": "Archive Widget",
-                        "maxLength": null,
-                        "placeholder": {
-                            "en": "Enter text"
-                        },
-                        "uneditable": false,
-                        "width": "100%"
-                    },
-                    "id": "fdf0954a-aedc-4b35-b8e6-955c9c3859f2",
-                    "label": {
-                        "en": "Archive Widget"
-                    },
-                    "node_id": "beb47218-e55f-11ed-8737-96a6d245525a",
-                    "sortorder": null,
-                    "visible": true,
-                    "widget_id": "37d48742-ccf0-470b-8b41-d799ad912c51"
                 }
             ],
             "color": null,
@@ -561,11 +531,5 @@
             "template_id": "50000000-0000-0000-0000-000000000001",
             "version": ""
         }
-    ],
-    "metadata": {
-        "db": "PostgreSQL 15.1 on aarch64-apple-darwin21.6.0, compiled by Apple clang version 14.0.0 (clang-1400.0.29.102), 64-bit",
-        "git hash": "fatal: not a git repository (or any of the parent directories): .git",
-        "os": "Darwin",
-        "os version": "22.4.0"
-    }
+    ]
 }
