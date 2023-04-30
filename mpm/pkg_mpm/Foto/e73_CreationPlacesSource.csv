@@ -1,4 +1,4 @@
-ResourceID,brocade.id,card,order,source_field,Creation Place Note,Creation Place Note Type,Creation Place Note Language,place_au_code,Creation Place Widget
+ResourceID,brocade.id,card,order,source_field,Creation Place Note (nl),Creation Place Note Type,Creation Place Note Language,place_au_code,Creation Place Widget (nl)
 037115d1-f4fd-5466-9669-a426c185e2ac,tg:mpmph:88,Places,1,id/place.place,[Haarlem?],remarks,Nederlands,,
 020d937c-b7b1-5ae0-9241-74fd925008ba,tg:mpmph:98,Places,1,id/place.place,[Leiden],remarks,Nederlands,,
 e272703b-d5a8-58f6-99cc-7b327f7488d7,tg:mpmph:108,Places,1,id/place.place,[Amsterdam],remarks,Nederlands,,

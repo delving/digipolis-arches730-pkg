@@ -1,4 +1,4 @@
-ResourceID,brocade.id,card,order,source_field,Creation Time Span Source Note
+ResourceID,brocade.id,card,order,source_field,Creation Time Span Source Note (nl)
 22a58008-ac46-5798-818b-c310f25446e0,tg:mpmbr:1130,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,16761106
 04d48f6d-a553-56b5-92c6-bf6876ff1b4b,tg:mpmbr:598,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,16400718
 e687756a-1c8c-551e-b0fb-6c08b0ae577e,tg:mpmbr:1048,e73_CreationTimeSpanSourceNotes,0,id/date.creationdate/so,16750816

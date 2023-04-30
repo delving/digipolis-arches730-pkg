@@ -1,4 +1,4 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Annotation,Annotation Language,Annotation Type
+ResourceID,brocade.id,card,order,source_field,source_code,Annotation (nl),Annotation Language,Annotation Type
 b53c42cd-4ff0-5756-8452-1bee8457fa4b,tg:mpmak:31,e73_AnnotationsImmaterial,1,note.mpmalg,"<p>Gedrukte tekst</p>
 ","<p>Gedrukte tekst</p>
 ",Nederlands,remarks

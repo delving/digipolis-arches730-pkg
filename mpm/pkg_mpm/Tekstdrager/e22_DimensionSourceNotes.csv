@@ -1,4 +1,4 @@
-ResourceID,brocade.id,card,order,source_field,source_code,Dimension Source Note
+ResourceID,brocade.id,card,order,source_field,source_code,Dimension Source Note (nl)
 c3a3aad4-e5a2-53ae-9122-1374e1ae944f,tg:mpmak:31_#1,e22_DimensionSourceNotes,1,kenmerken/mpmformaths.mpmformathsafm,"47,5 x 37,0","47,5 x 37,0 - height, width, kenmerken/mpmformaths.mpmformathsafm"
 518c1b18-f962-5208-9fb5-be34ac12df7e,tg:mpmak:21_#1,e22_DimensionSourceNotes,1,kenmerken/mpmformaths.mpmformathsafm,40 x 51,"40 x 51 - height, width, kenmerken/mpmformaths.mpmformathsafm"
 fa0627da-a5b7-5bd6-8ce9-2d120f03351e,tg:mpmak:88_#1,e22_DimensionSourceNotes,1,kenmerken/mpmformaths.mpmformathsafm,22 x 14,"22 x 14 - height, width, kenmerken/mpmformaths.mpmformathsafm"

@@ -1,4 +1,4 @@
-ResourceID,card,order,source_field,Legacy Information Value,Legacy Information Type,Legacy Information Published
+ResourceID,card,order,source_field,Legacy Information Value (nl),Legacy Information Type,Legacy Information Published
 c285eabe-bdd8-5fa8-be09-e0d2398c5947,e73_LegacyInformation,0,id.objectNumber,BE-ANN00/ph/000000020,referentienummer,False
 c285eabe-bdd8-5fa8-be09-e0d2398c5947,e73_LegacyInformation,1,brocade.id,tg:mpmph:31,brocade id,False
 c285eabe-bdd8-5fa8-be09-e0d2398c5947,e73_LegacyInformation,1,brocade.url,https://anet.be/record/opacmpmobj/tg:mpmph:31/N,brocade url,False

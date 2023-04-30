@@ -1,4 +1,4 @@
-card,order,dataset,adm.id_mat,Plaatsingsnummer,adm.isadPartOf,adm.uuid_mat,ResourceID,brocade.id,Source Note,Source Note Type,Source Note Language
+card,order,dataset,adm.id_mat,Plaatsingsnummer,adm.isadPartOf,adm.uuid_mat,ResourceID,brocade.id,Source Note (nl),Source Note Type,Source Note Language
 e22_Items,1,mpmph,tg:mpmph:31_#1,AV REPRO OD 12,isad:mpm:916,001ccf13-ea5e-5182-902a-d87234a810c5,001ccf13-ea5e-5182-902a-d87234a810c5,tg:mpmph:31_#1,,,
 e22_Items,1,mpmph,tg:mpmph:21_#1,AV REPRO OD 2,isad:mpm:916,44c64192-38c7-592c-bad7-d324bbe2cc23,44c64192-38c7-592c-bad7-d324bbe2cc23,tg:mpmph:21_#1,,,
 e22_Items,1,mpmph,tg:mpmph:88_#1,AV LP 39,isad:mpm:686,e34d429a-2a8b-5fe9-a31e-b09e056a56d9,e34d429a-2a8b-5fe9-a31e-b09e056a56d9,tg:mpmph:88_#1,20 stuks,remarks,Nederlands

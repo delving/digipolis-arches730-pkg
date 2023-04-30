@@ -1,4 +1,4 @@
-ResourceID,card,order,source_field,Legacy Information Value,Legacy Information Type,Legacy Information Published
+ResourceID,card,order,source_field,Legacy Information Value (nl),Legacy Information Type,Legacy Information Published
 92b6bc82-97d3-511b-b41e-09c0ea48083e,e73_LegacyInformation,0,id.objectNumber,BE-ANN00/tk/000000014,referentienummer,False
 92b6bc82-97d3-511b-b41e-09c0ea48083e,e73_LegacyInformation,1,brocade.id,tg:mpmtk:31,brocade id,False
 92b6bc82-97d3-511b-b41e-09c0ea48083e,e73_LegacyInformation,1,brocade.url,https://anet.be/record/opacmpmobj/tg:mpmtk:31/N,brocade url,False

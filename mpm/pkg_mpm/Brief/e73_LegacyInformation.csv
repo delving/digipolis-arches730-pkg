@@ -1,4 +1,4 @@
-ResourceID,card,order,source_field,Legacy Information Value,Legacy Information Type,Legacy Information Published
+ResourceID,card,order,source_field,Legacy Information Value (nl),Legacy Information Type,Legacy Information Published
 22a58008-ac46-5798-818b-c310f25446e0,e73_LegacyInformation,0,id.objectNumber,BE-ANN00/br/000001114,referentienummer,False
 22a58008-ac46-5798-818b-c310f25446e0,e73_LegacyInformation,1,brocade.id,tg:mpmbr:1130,brocade id,False
 22a58008-ac46-5798-818b-c310f25446e0,e73_LegacyInformation,1,brocade.url,https://anet.be/record/opacmpmobj/tg:mpmbr:1130/N,brocade url,False
